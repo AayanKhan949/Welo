@@ -25,7 +25,7 @@
 
 
 
-**2) Welo Full without Electronics** : https://www.tinkercad.com/things/atqV2k4sBwB-welo-full-with-electronics
+**2) Welo Full without Electronics** : https://www.tinkercad.com/things/bNWWNv67mnp-welo-full-without-electronics
 
 **Screenshots:**
 
@@ -49,7 +49,7 @@
 
 
 
-**3) Welo Front with Electronics** : https://www.tinkercad.com/things/atqV2k4sBwB-welo-full-with-electronics
+**3) Welo Front with Electronics** : https://www.tinkercad.com/things/b5DveT0E2SX-welo-front-with-electronics
 
 **Screenshots:**
 
@@ -74,7 +74,7 @@
 
 
 
-**4) Welo Front without Electronics** : https://www.tinkercad.com/things/atqV2k4sBwB-welo-full-with-electronics
+**4) Welo Front without Electronics** : https://www.tinkercad.com/things/cjN8UdkfBMU-welo-front-without-electronics
 
 **Screenshots:**
 
@@ -101,7 +101,7 @@
 
 
 
-**5) Welo Back with Electronics** : https://www.tinkercad.com/things/atqV2k4sBwB-welo-full-with-electronics
+**5) Welo Back with Electronics** : https://www.tinkercad.com/things/1Y2DMo3qqqd-welo-back-with-electronics
 
 **Screenshots:**
 
@@ -127,7 +127,7 @@
 
 
 
-**6) Welo Back without Electronics** : https://www.tinkercad.com/things/atqV2k4sBwB-welo-full-with-electronics
+**6) Welo Back without Electronics** : https://www.tinkercad.com/things/4VzsesNh2rP-welo-back-without-electronics
 
 **Screenshots:**
 
@@ -152,8 +152,13 @@
 
 
 
-**1) Welo TTP223 support** : https://www.tinkercad.com/things/atqV2k4sBwB-welo-full-with-electronics
+**7) Welo TTP223 support** : https://www.tinkercad.com/things/0YOKGBtyuY9-welo-ttp223-support
 
 **Screenshots:**
 
 *Overview*
+<img width="458" height="194" alt="Welo7 overview" src="https://github.com/user-attachments/assets/d6d43960-ac1d-491b-a589-9d190b055148" />
+
+
+
+# For the .step and .f3d file links..Refer to CAD/files/File-link.md, the download of the files are to be done through the link in CAD/files/File-link.md as directly uploading the files in the repo was not possible due to size limitations.Thank you <3.
