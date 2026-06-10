@@ -18,7 +18,7 @@ It was made as  I notied that people pick up their phone to see weather and end 
 # How will WELO look?
 <img width="595" height="532" alt="Welo1 overview" src="https://github.com/user-attachments/assets/447b39b1-c194-4a4b-9867-a6ff80ce6f47" />
 
-*For multiple views refer to the Images folder*
+*For multiple views refer to the [Images folder](https://github.com/AayanKhan949/Welo/tree/main/Images) or [CAD.md](https://github.com/AayanKhan949/Welo/blob/main/CAD/CAD.md)*
 
 
 # Zine Page :
@@ -29,3 +29,10 @@ It was made as  I notied that people pick up their phone to see weather and end 
 
 <img width="2245" height="1587" alt="Welo Circuit final" src="https://github.com/user-attachments/assets/814cdeb8-57c3-4c9a-8a49-0db0a4113758" />
 
+# How to Build it?
+
+**To replicate Welo, follow the below mentioned steps:**
+1) First, go grab the CAD from the CAD folder..or you can download the files from [here](https://drive.google.com/drive/folders/1-Gn5eq_jPVh20CZxeo8vWbvCTA9HpXYL?usp=sharing). I prefer going to the CAD folder and go through the CAD.md for detailed understanding of the CAD.
+2) Then grab the parts mentioned in the [BOM](https://github.com/AayanKhan949/Welo/tree/main/BOM)..
+3) Wire up the electronics as per the [Circuit Diagram](https://github.com/AayanKhan949/Welo/tree/main/Circuit-Diagram).
+4) Then assemble everything in the 3D shell as per the completely assemble .step file of the CAD
