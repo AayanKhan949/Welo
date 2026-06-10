@@ -22,8 +22,7 @@ It was made as  I notied that people pick up their phone to see weather and end 
 
 
 # Zine Page :
-
-
+<img width="1410" height="2000" alt="WELO Zine" src="https://github.com/user-attachments/assets/b7ab60f7-f1ce-477c-a192-320e9ac601c4" />
 
 
 # Circuit of Welo :
