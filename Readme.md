@@ -43,4 +43,29 @@ It was made as  I notied that people pick up their phone to see weather and end 
 *Hurrahh!!You replicated Welo*
 
 
+**Kindly refer to [Source-code/Libraries/guide.md](https://github.com/AayanKhan949/Welo/blob/main/Source-code/Libraries/guide.md)**
+
+
+# How to use it?
+To use Welo, Connect it with micrro-usb power supply, connect with your phone with wifi, select your location. Here you go...your WELO is ready to use..
+
+# What are the required components?
+To build Welo, you need:
+1) ESP32.
+2) 1.3inch OLED.
+3) TTP223 touch switch.
+4) 3D Printed parts
+5) Jumper wires.
+
+*For detailed BOM click here.*
+
+
+# 
+
+~With lots of Love,
+
+~Aayan Khan,
+
+~A teen from India.
+
 
