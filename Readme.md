@@ -57,7 +57,7 @@ To build Welo, you need:
 4) 3D Printed parts
 5) Jumper wires.
 
-*For detailed BOM click here.*
+*For detailed BOM click [here](https://github.com/AayanKhan949/Welo/tree/main/BOM).*
 
 
 # 
