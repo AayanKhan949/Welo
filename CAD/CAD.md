@@ -161,4 +161,9 @@
 
 
 
-# For the .step and .f3d file links..Refer to CAD/files/File-link.md, the download of the files are to be done through the link in CAD/files/File-link.md as directly uploading the files in the repo was not possible due to size limitations.Thank you <3.
+# For the .step and .f3d file...refer to [CAD/files](https://github.com/AayanKhan949/Welo/tree/main/CAD/files) .Thank you <3.
+
+
+*~With Love*
+*~Aayan Khan*
+*~A 14y/o from India*
