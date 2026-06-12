@@ -33,7 +33,7 @@ It was made as  I notied that people pick up their phone to see weather and end 
 # How to Build it?
 
 **To replicate Welo, follow the below mentioned steps:**
-1) First, go grab the CAD from the CAD folder..or you can download the files from [here](https://drive.google.com/drive/folders/1-Gn5eq_jPVh20CZxeo8vWbvCTA9HpXYL?usp=sharing). I prefer going to the CAD folder and go through the CAD.md for detailed understanding of the CAD.
+1) First, go grab the CAD from the CAD folder..or you can download the files from [here](https://github.com/AayanKhan949/Welo/tree/main/CAD/files). I prefer going to the CAD folder and go through the CAD.md for detailed understanding of the CAD.
 2) Then grab the parts mentioned in the [BOM](https://github.com/AayanKhan949/Welo/tree/main/BOM)..
 3) Wire up the electronics as per the [Circuit Diagram](https://github.com/AayanKhan949/Welo/tree/main/Circuit-Diagram).
 4) Then upload the code from [here](https://github.com/AayanKhan949/Welo/tree/main/Source-code) in your ESP32.
