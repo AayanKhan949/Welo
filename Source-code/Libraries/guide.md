@@ -14,5 +14,5 @@
 
 
 
-*For the downloaded libraries in the repository, click [here](https://drive.google.com/drive/folders/1c7Enxmq-UwByoBKTIsM5f280nIZwws3Y?usp=sharing)*
+*For the downloaded libraries in the repository, click [here](https://github.com/AayanKhan949/Welo/tree/main/Source-code/Libraries/Zip%20files)*
   
